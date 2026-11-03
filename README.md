@@ -82,3 +82,5 @@ To test an app running on another address, add `-DbaseUrl=http://localhost:PORT`
 ## Tools
 
 Java 21, Maven, JUnit 5, Selenium WebDriver 4, headless Chrome.
+
+verification code: WTC-CWQA5EE2
